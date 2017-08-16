@@ -1,0 +1,19 @@
+<?php 
+
+    https://www.pexels.com
+    https://pixabay.com
+    https://stocksnap.io
+    https://visualhunt.com
+    https://unsplash.com
+    https://burst.shopify.com
+    http://isorepublic.com
+    http://freenaturestock.com
+    https://negativespace.co
+    https://picjumbo.com
+    http://stokpic.com
+    http://kaboompics.com
+    http://startupstockphotos.com
+    https://libreshot.com
+    http://fancycrave.com
+    https://www.splitshire.com
+    http://www.lifeofpix.com
